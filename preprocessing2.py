@@ -26,4 +26,3 @@ def preprocessing(text):
     outfile.close()
     return 
 
-preprocessing(sys.argv[1])
